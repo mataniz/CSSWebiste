@@ -1,0 +1,94 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3em;
+    color: #0E185F;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: #439A97;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.565em;
+    color: #439A97;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.565em;
+    color: #54436B;
+}
+hr{
+    border-style: dotted none none none;
+    border-color:#EAC4D5;
+    border-width: 5px;
+    width: 10%;
+}
+
+/***************** CLASSES *******************/
+.topContainer{
+    background-color: #B1B2FF;
+    position: relative;
+
+}
+.profile{
+    background-color: #AAC4FF;
+    padding: 50px;
+    position:relative;
+    margin: 0
+}
+.skills{
+    background-color: #D2DAFF;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.contact-me{
+    background-color: #EEF1FF;
+}
+
+.bottom-container{
+    background-color: #EEF1FF;
+}
+
+.underlined{
+    text-decoration: underline;
+}
+.ZubairHeading{
+    font-size: 5.625rem;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+
+}
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.topCloud{
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.Skills{
+    width: 300px;
+    height: 300px;
+    
+}
+.email{
+    width: 50px;
+    height: 50px;
+}
+.linkedin{
+    width: 50px;
+    height: 50px;
+}
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+

@@ -1,0 +1,92 @@
+body{
+    text-align: left;
+    background-color: #EEEBDD;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.565em;
+    color: #301E67;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.565em;
+    color: #474E68;
+}
+hr{
+    border-style: dotted none none none;
+    border-color:#FF6464;
+    border-width: 5px;
+    width: 10%;
+}
+/***********************CLASSES************************/
+.top-container{
+    background-color: #CEEDC7;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.middle-container{
+    background-color: #86C8BC;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.uindy{
+    position: relative;
+    padding-top: 10px;
+
+}
+.iupui{
+    position: relative;
+    padding-top: 10px;
+}
+.uindy-logo{
+    position: absolute;
+    float:right;
+    width: 100px;
+    height: 100px;
+    margin-left: 550px;
+}
+.iupui-logo{
+    position: absolute;
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-left: 550px;
+}
+.programming-languages{
+    position: relative;
+}
+.image-icons{
+    width: 100x;
+    height: 100px;
+    
+}
+.c-plus{
+    padding-left: 120px;
+}
+.c-sharp{
+    padding-left: 120px;
+}
+.c-language{
+    padding-left: 120px;
+
+}
+.html{
+    padding-left: 120px;
+}
+.python{
+    padding-left: 120px;
+}
+.github{
+    width: 50px;
+    height: 50px;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #A8D1D1;
+}
+
